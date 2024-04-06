@@ -1,1 +1,4 @@
-Readme
+This Folder contains the code to display a Markowitz Bullet for 3 portfolios with pre-defined weights of 3 different assets.
+
+NOTE: The user may need to make certain changes to the code for suitability
+ALSO NOTE: The data-feed used in Yfinance (Yfinance can be lacking in the data it provides at times)
